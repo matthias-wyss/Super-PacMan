@@ -20,9 +20,9 @@ In this game you embody PacMan, a hungry little yellow ball that is stuck in a m
 3. Your score is displayed at the top left of your screen. To increase it you can eat diamonds, fruits, coins, or even ghosts when they are scared.
 
 4. Ghosts are present from the second level. There are 3 types: 
-	* Blinky in red, which choose orientations at random.
-	* Inky in blue, who stalk you when you get too close to them, and otherwise stay close to their refuge. 
-	* Pinky in pink, who stalk you when you get a little too close, and don't hesitate to stray from their refuge. They are also able to run away from you when they are afraid.
+	* Blinky in red, who chooses orientations at random.
+	* Inky in blue, who stalks you when you get too close to him, and otherwise stay close to their refuge. 
+	* Pinky in pink, who stalks you when you get a little too close, and doesn't hesitate to stray from his refuge. He is also able to run away from you when he is afraid.
 
 5. Pay attention ! When you come across a ghost in your path, it will eat you, causing you to lose a life and respawn in your spawn position. Ghosts temporarily go into a frightened state when you eat a coin, allowing you to eat them. When you eat a ghost, you increase your score and it will respawn in its safe position.
 
