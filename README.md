@@ -1,7 +1,7 @@
 # Super-PacMan
 
 
-Super-PacMan is a game writen in Java that was created as part of a mini-project 2 during my first semester of my first year at EPFL.
+Super-PacMan is a game written in Java that was created as part of a mini-project 2 during my first semester of my first year at EPFL.
 
 In this game you embody PacMan, a hungry little yellow ball that is stuck in a maze with ghosts.
 
